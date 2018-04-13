@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizAppFinal</string>
+    <string name="title">Quiz 1</string>
+    <!--question1-->
+    <string name="question1">An IPv4 address consists of .......bits</string>
+    <string name="q1Option1">4</string>
+    <string name="q1Option2">8</string>
+    <string name="q1Option3">32</string>
+    <!--question2-->
+    <string name="question2">The 4 byte IP address consists of</string>
+    <string name="q2Option1">network address</string>
+    <string name="q2Option2">host address</string>
+    <string name="q2Option3">both network and host addresses</string>
+    <!--question3-->
+    <string name="question3">The data link layer takes the packets from .....and encapsulates them into frames for transmission</string>
+    <string name="q3Option1">network layer</string>
+    <string name="q3Option2">physical layer</string>
+    <string name="q3Option3">application layer</string>
+
+    <!--Question 4-->
+    <string name="question4">What is the layer that is responsible for the communication?</string>
+
+    <!--SUMBIT BUTTON-->
+    <string name="submitBTN">Submit</string>
+</resources>
